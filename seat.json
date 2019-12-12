@@ -1,0 +1,168 @@
+{
+  "settings": {
+    "column": 5,
+    "row": 8
+  },
+  "seals": [
+    {
+      "name": "A1",
+      "status": 0
+    },
+    {
+      "name": "B1",
+      "status": 0
+    },
+    {
+      "name": "",
+      "status": 0
+    },
+    {
+      "name": "A2",
+      "status": 0
+    },
+    {
+      "name": "B2",
+      "status": 2
+    },
+    {
+      "name": "A3",
+      "status": 0
+    },
+    {
+      "name": "B3",
+      "status": 0
+    },
+    {
+      "name": "",
+      "status": 0
+    },
+    {
+      "name": "A4",
+      "status": 0
+    },
+    {
+      "name": "B4",
+      "status": 2
+    },
+    {
+      "name": "A5",
+      "status": 0
+    },
+    {
+      "name": "B5",
+      "status": 0
+    },
+    {
+      "name": "",
+      "status": 0
+    },
+    {
+      "name": "A6",
+      "status": 0
+    },
+    {
+      "name": "B6",
+      "status": 2
+    },
+    {
+      "name": "A7",
+      "status": 2
+    },
+    {
+      "name": "B7",
+      "status": 2
+    },
+    {
+      "name": "",
+      "status": 0
+    },
+    {
+      "name": "A8",
+      "status": 2
+    },
+    {
+      "name": "B8",
+      "status": 2
+    },
+    {
+      "name": "A9",
+      "status": 0
+    },
+    {
+      "name": "B9",
+      "status": 2
+    },
+    {
+      "name": "",
+      "status": 0
+    },
+    {
+      "name": "A10",
+      "status": 2
+    },
+    {
+      "name": "B10",
+      "status": 2
+    },
+    {
+      "name": "A11",
+      "status": 2
+    },
+    {
+      "name": "B11",
+      "status": 2
+    },
+    {
+      "name": "",
+      "status": 0
+    },
+    {
+      "name": "A12",
+      "status": 2
+    },
+    {
+      "name": "B12",
+      "status": 2
+    },
+    {
+      "name": "A13",
+      "status": 0
+    },
+    {
+      "name": "B13",
+      "status": 2
+    },
+    {
+      "name": "",
+      "status": 0
+    },
+    {
+      "name": "A14",
+      "status": 2
+    },
+    {
+      "name": "B14",
+      "status": 2
+    },
+    {
+      "name": "A15",
+      "status": 0
+    },
+    {
+      "name": "B15",
+      "status": 0
+    },
+    {
+      "name": "",
+      "status": 0
+    },
+    {
+      "name": "A16",
+      "status": 0
+    },
+    {
+      "name": "B16",
+      "status": 0
+    }
+  ]
+}
