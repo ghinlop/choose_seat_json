@@ -1,168 +1,168 @@
 {
-  "settings": {
-    "column": 5,
-    "row": 8
-  },
-  "seals": [
-    {
-      "name": "A1",
-      "status": 3
+    "settings": {
+        "column": 5,
+        "row": 8
     },
-    {
-      "name": "B1",
-      "status": 3
-    },
-    {
-      "name": "",
-      "status": 0
-    },
-    {
-      "name": "A2",
-      "status": 3
-    },
-    {
-      "name": "B2",
-      "status": 2
-    },
-    {
-      "name": "A3",
-      "status": 3
-    },
-    {
-      "name": "B3",
-      "status": 3
-    },
-    {
-      "name": "",
-      "status": 0
-    },
-    {
-      "name": "A4",
-      "status": 3
-    },
-    {
-      "name": "B4",
-      "status": 2
-    },
-    {
-      "name": "A5",
-      "status": 3
-    },
-    {
-      "name": "B5",
-      "status": 3
-    },
-    {
-      "name": "",
-      "status": 0
-    },
-    {
-      "name": "A6",
-      "status": 3
-    },
-    {
-      "name": "B6",
-      "status": 2
-    },
-    {
-      "name": "A7",
-      "status": 2
-    },
-    {
-      "name": "B7",
-      "status": 2
-    },
-    {
-      "name": "",
-      "status": 0
-    },
-    {
-      "name": "A8",
-      "status": 2
-    },
-    {
-      "name": "B8",
-      "status": 2
-    },
-    {
-      "name": "A9",
-      "status": 3
-    },
-    {
-      "name": "B9",
-      "status": 2
-    },
-    {
-      "name": "",
-      "status": 0
-    },
-    {
-      "name": "A10",
-      "status": 2
-    },
-    {
-      "name": "B10",
-      "status": 2
-    },
-    {
-      "name": "A11",
-      "status": 2
-    },
-    {
-      "name": "B11",
-      "status": 2
-    },
-    {
-      "name": "",
-      "status": 0
-    },
-    {
-      "name": "A12",
-      "status": 2
-    },
-    {
-      "name": "B12",
-      "status": 2
-    },
-    {
-      "name": "A13",
-      "status": 3
-    },
-    {
-      "name": "B13",
-      "status": 2
-    },
-    {
-      "name": "",
-      "status": 0
-    },
-    {
-      "name": "A14",
-      "status": 2
-    },
-    {
-      "name": "B14",
-      "status": 2
-    },
-    {
-      "name": "A15",
-      "status": 3
-    },
-    {
-      "name": "B15",
-      "status": 3
-    },
-    {
-      "name": "",
-      "status": 2
-    },
-    {
-      "name": "A16",
-      "status": 3
-    },
-    {
-      "name": "B16",
-      "status": 3
-    }
-  ]
+    "seals": [
+        {
+            "name": "A1",
+            "status": ""
+        },
+        {
+            "name": "B1",
+            "status": ""
+        },
+        {
+            "name": "",
+            "status": ""
+        },
+        {
+            "name": "A2",
+            "status": ""
+        },
+        {
+            "name": "B2",
+            "status": "Đã Chọn"
+        },
+        {
+            "name": "A",
+            "status": ""
+        },
+        {
+            "name": "B",
+            "status": ""
+        },
+        {
+            "name": "",
+            "status": ""
+        },
+        {
+            "name": "A4",
+            "status": ""
+        },
+        {
+            "name": "B4",
+            "status": "Đã Chọn"
+        },
+        {
+            "name": "A5",
+            "status": ""
+        },
+        {
+            "name": "B5",
+            "status": ""
+        },
+        {
+            "name": "",
+            "status": ""
+        },
+        {
+            "name": "A6",
+            "status": ""
+        },
+        {
+            "name": "B6",
+            "status": "Đã Chọn"
+        },
+        {
+            "name": "A7",
+            "status": "Đã Chọn"
+        },
+        {
+            "name": "B7",
+            "status": "Đã Chọn"
+        },
+        {
+            "name": "",
+            "status": ""
+        },
+        {
+            "name": "A8",
+            "status": "Đã Chọn"
+        },
+        {
+            "name": "B8",
+            "status": "Đã Chọn"
+        },
+        {
+            "name": "A9",
+            "status": ""
+        },
+        {
+            "name": "B9",
+            "status": "Đã Chọn"
+        },
+        {
+            "name": "",
+            "status": ""
+        },
+        {
+            "name": "A1",
+            "status": "Đã Chọn"
+        },
+        {
+            "name": "B1",
+            "status": "Đã Chọn"
+        },
+        {
+            "name": "A11",
+            "status": "Đã Chọn"
+        },
+        {
+            "name": "B11",
+            "status": "Đã Chọn"
+        },
+        {
+            "name": "",
+            "status": ""
+        },
+        {
+            "name": "A12",
+            "status": "Đã Chọn"
+        },
+        {
+            "name": "B12",
+            "status": "Đã Chọn"
+        },
+        {
+            "name": "A1",
+            "status": ""
+        },
+        {
+            "name": "B1",
+            "status": "Đã Chọn"
+        },
+        {
+            "name": "",
+            "status": ""
+        },
+        {
+            "name": "A14",
+            "status": "Đã Chọn"
+        },
+        {
+            "name": "B14",
+            "status": "Đã Chọn"
+        },
+        {
+            "name": "A15",
+            "status": ""
+        },
+        {
+            "name": "B15",
+            "status": ""
+        },
+        {
+            "name": "",
+            "status": "Đã Chọn"
+        },
+        {
+            "name": "A16",
+            "status": ""
+        },
+        {
+            "name": "B16",
+            "status": ""
+        }
+    ]
 }
